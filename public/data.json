@@ -1,0 +1,545 @@
+[
+    {
+        "pictures": [
+            "/assets/images/products/accessories.PNG"
+        ],
+        "id": 120,
+        "name": "branded usb ",
+        "price": 20.00,
+        "salePrice": 30.00,
+        "discount": 50,
+        "shortDetails": "easy to transfer and store of data",
+        "description": "Ideal for easy transfer and storing  of all your information",
+        "stock": 20,
+        "new": true,
+        "sale": false,
+        "rating": 2,
+        "category": "kids"
+    },
+    {
+        "pictures": [
+            "/assets/images/products/bags.PNG"
+        ],
+        "id": 121,
+        "name": "hand bags",
+        "price": 20.00,
+        "discount":50,
+        "shortDetails": "to carry your potable goods",
+        "description": "Ideal for carrying all portable goods with a water holding pocket",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 1,
+        "category": "kids"
+    },
+    {
+        "pictures": [
+            "/assets/images/products/body_warmer.jpg"
+        ],
+        "id": 122,
+        "name": "slim fit body warmer",
+        "price": 40.00,
+        "salePrice":15,
+        "discount":50,
+        "shortDetails": "available in all sizes",
+        "description": " ideal for a variety of weather conditions ",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 4,
+        "category": "kids"
+    },
+    { 
+        "pictures": [
+            "/assets/images/products/Bottle.jpg"
+        ],
+        "id": 123,
+        "name": " Transparent Bottles",
+        "price": 10,
+        "salePrice": 30,
+        "discount":50,
+        "shortDetails": "for better air tight storage ",
+        "description": "ideal for all your goods that do not need aeration in storage",
+        "stock": 20,
+        "new": false,
+        "sale": true,
+        "rating": 1,
+        "category": "kids"
+    },
+    {
+        "pictures": [
+            "/assets/images/products/bottoms.jpg"
+        ],
+        "id": 124,
+        "name": "Bottoms",
+        "price": 70,
+        "salePrice": 30,
+        "discount":50,
+        "shortDetails": "all your sizes",
+        "description": "100% cotton bottoms ideal for providing you with comfort and warmth",
+        "stock": 20,
+        "new": true,
+        "sale": false,
+        "rating": 2,
+        "category": "kids"
+    },
+    {
+        "pictures": [
+            "/assets/images/products/branded_cup.jpg"
+        ],
+        "id": 125,
+        "name": "coffee cups",
+        "price": 4,
+        "salePrice": 1,
+        "discount": 50,
+        "shortDetails": "for your drinks",
+        "stock": 20,
+        "new": true,
+        "sale": false,
+        "rating": 2,
+        "category": "kids",
+        "description": "Ideal for cold and extreamly hot drinks"
+    },
+    {
+        "pictures": [
+            "/assets/images/products/cap.jpg"
+        ],
+        "id": 126,
+        "name": "branded caps",
+        "price": 20,
+        "salePrice": 8,
+        "discount": 50,
+        "shortDetails": "sun protection",
+        "description": "ideal for all your out door activities",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 1,
+        "category": "kids"
+    },
+    {
+         "pictures": [
+            "/assets/images/products/drinkware.PNG"
+        ],
+        "id": 127,
+        "name": "plastic juice bottles",
+        "price": 6,
+        "salePrice": 2.5,
+        "discount": 50,
+        "shortDetails": "for cold fluids",
+        "description": "ideal for storage of cold drinks and water",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 1,
+        "category": "kids"
+    },
+    {
+        "pictures": [
+            "/assets/images/products/footwear.jpg"
+        ],
+        "id": 128,
+        "name": "shoes",
+        "price": 70,
+        "salePrice": 25,
+        "discount": 50,
+        "description": "ideal for all occassions",
+        "shortDetails": "All sizes available",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+    },
+    {
+        "pictures": [
+             "/assets/images/products/formal_shirt.jpg"
+        ],
+        "id": 129,
+        "name": "shirts",
+        "price": 40,
+        "salePrice": 15,
+        "discount": 50,
+        "shortDetails": "All sizes available",
+        "description":" ideal for all formal wear",
+        "stock": 20,
+        "new": true,
+        "sale": false,
+        "rating": 2,
+        "category": "kids"
+    },
+    { 
+        "pictures": [
+            "/assets/images/products/gift_tags.PNG"
+        ],
+        "id": 130,
+        "name": "branded gifts tags",
+        "price": 6,
+        "salePrice": 15,
+        "discount": 50,
+        "shortDetails": "gift tags available",
+        "description":" ideal for portable gifts ",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 1,
+        "category": "kids"
+    },
+    { 
+        "pictures": [
+           "/assets/images/products/golf_tshirt.jpg"
+        ],
+        "id": 131,
+        "name": "executive golf T shirts",
+        "price": 30,
+        "salePrice": 12,
+        "discount": 50,
+        "shortDetails": "all sizes available",
+        "description":"ideal for all occassions",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},
+{
+        "pictures": [
+            "/assets/images/products/hoodies.PNG"
+        ],
+        "id": 132,
+        "name": "winter hoodies",
+        "price": 60,
+        "salePrice": 25,
+        "discount": 50,
+        "shortDetails": "all sizes available",
+        "description":"ideal to keep you warm during the winter",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},
+{
+       "pictures": [
+           "/assets/images/products/hospitality.PNG"
+        ],
+        "id": 133,
+        "name": "Electric Jug",
+        "price": 90,
+        "salePrice": 35,
+        "discount": 50,
+        "shortDetails": "durable Jug available",
+        "description":"ideal to boil water within a very short space of time",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},
+{
+        "pictures": [
+            "/assets/images/products/industrial_apparel.jpg"
+        ],
+        "id": 134,
+        "name": "Branded reflector",
+        "price": 30,
+        "salePrice": 10,
+        "discount": 50,
+        "shortDetails": "available in all sizes",
+        "description":"for easy visibility at night ",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},
+{       
+        "pictures": [
+           "/assets/images/products/jacket.jpg"
+        ],
+        "id": 135,
+        "name": "branded jackets",
+        "price": 60,
+        "salePrice": 25,
+        "discount": 50,
+        "shortDetails": "jackets available in all sizes",
+        "description":"ideal to provide the warmth you require in a variety of weathers",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},
+{
+        "pictures": [
+           "/assets/images/products/lunchware.jpg"
+        ],
+        "id": 136,
+        "name": "plastic lunch",
+        "price": 6,
+        "salePrice": 2.5,
+        "discount": 50,
+        "shortDetails": "can be used to store foodstuffs",
+        "description":"ideal to store foodstuffs in an air tight environment",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},
+{  
+        "pictures": [
+           "/assets/images/products/notebook_covers.jpg"
+        ],
+        "id": 137,
+        "name": "office stationery",
+        "price": 10,
+        "salePrice": 4.5,
+        "discount": 50,
+        "shortDetails": "for all your notebook protection",
+        "description":"ideal for keeping your notebook intact",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},
+{ 
+        "pictures": [
+            "/assets/images/products/office_bags.PNG"
+        ],
+        "id": 138,
+        "name": "office stationery",
+        "price": 40,
+        "salePrice": 15,
+        "discount": 50,
+        "shortDetails": "for all your stationery",
+        "description":"ideal for recording keeping and office work",
+        "stock": 20,
+        "new": true,
+        "sale": false,
+        "rating": 1,
+        "category": "kids"
+},
+{    
+        "pictures": [
+            "/assets/images/products/outdoor.PNG"
+        ],
+        "id": 139,
+        "name": "Umbrella",
+        "price": 12,
+        "salePrice": 4.5,
+        "discount": 50,
+        "shortDetails": "Umbrellas available",
+        "description":"ideal for intensive sunlight and rainfall",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 1,
+        "category": "kids"
+},
+{      
+        "pictures": [
+          "/assets/images/products/pouch.jpg"
+        ],
+        "id": 140,
+        "name": "Pouch",
+        "price": 10,
+        "salePrice": 4,
+        "discount": 50,
+        "shortDetails": "pouch available",
+        "description": "ideal to safeguard your phone from scratches and massive cracking after falling down",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 1,
+        "category": "kids"
+},
+{ 
+        "pictures": [
+            "/assets/images/products/powerbank.jpg"
+        ],
+        "id": 141,
+        "name": "Power bank",
+        "price": 30,
+        "salePrice": 10,
+        "discount": 50,
+        "shortDetails": "power efficient powerbanks",
+        "description":"ideal for storing power and recharge of cellphones purposes",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},
+{        
+        "pictures": [
+            "/assets/images/products/sports_and_wellness.PNG"
+        ],
+        "id": 142,
+        "name": "Training attire",
+        "price": 50,
+        "salePrice": 20,
+        "discount": 50,
+        "shortDetails": "available in all sizes",
+        "description":"ideal for sporting execises and well being of the body",
+        "stock": 20,
+        "new": true,
+        "sale": false,
+        "rating": 1,
+        "category": "kids"
+},
+{      
+        "pictures": [
+           "/assets/images/products/sweaters.jpg"
+        ],
+        "id": 143,
+        "name": "branded sweaters",
+        "price": 50,
+        "salePrice": 20,
+        "discount": 50,
+        "shortDetails": "available in all sizes",
+        "description":"ideal for all weather ",
+        "stock": 20,
+        "new": true,
+        "sale": false,
+        "rating": 1,
+        "category": "kids"
+},
+{         
+        "pictures": [
+           "/assets/images/products/t_shirts.PNG"
+        ],
+        "id": 144,
+        "name": "t shirts",
+        "price": 30,
+        "salePrice": 10,
+        "discount": 50,
+        "shortDetails": "available in all sizes",
+        "description":"ideal for all our casual and sporting activities ",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},       
+{    
+        "pictures": [
+            "/assets/images/products/tracksuit.PNG"
+        ],
+        "id": 145,
+        "name": "branded trakcsuits",
+        "price": 40,
+        "salePrice": 30,
+        "discount": 50,
+        "shortDetails": "available in all sizes",
+        "description":"ideal for all your exercises and sporting activities ",
+        "stock": 20,
+        "new": true,
+        "sale": false,
+        "rating": 2,
+        "category": "kids"
+},       
+{       
+        "pictures": [
+          "/assets/images/products/water_glasses.jpg"
+        ],
+        "id": 146,
+        "name": "Water glasses",
+        "price": 4,
+        "salePrice": 1.5 ,
+        "discount": 50,
+        "shortDetails": "Smooth and transparent water glass",
+        "description": "ideal for all occassions",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 1,
+        "category": "kids"
+},       
+{    
+        "pictures": [
+           "/assets/images/products/winter_apparel.jpg"
+        ],
+        "id": 147,
+        "name": "Winter wear",
+        "price": 30,
+        "salePrice": 12,
+        "discount": 50,
+        "shortDetails": "All sizes available",
+        "description": "ideal for making you warm during cold weathers",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},       
+{      
+        "pictures": [
+           "/assets/images/products/jerseys.jpg"
+        ],
+        "id": 148,
+        "name": "branded sports jersey",
+        "price": 40,
+        "salePrice": 15,
+        "discount": 50,
+        "shortDetails": "All sizes available",
+        "description": "ideal for for your sporting and execises",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},       
+{       "pictures": [
+            "/assets/images/products/office_set.PNG"
+        ],
+        "id": 149,
+        "name": "office set",
+        "price": 20,
+        "salePrice": 8,
+        "discount": 50,
+        "shortDetails": "For all your record keeping",
+        "description": "ideal for use in jotting down notes and any record keeoping",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},
+{
+        "pictures": [
+            "/assets/images/products/jackets.PNG"
+        ],
+        "id": 150,
+        "name": "Jackets",
+        "price": 60,
+        "salePrice": 25,
+        "discount": 50,
+        "shortDetails": "For all your sizes",
+        "description": "ideal for all keeping the body warm",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+},
+{
+        "pictures": [
+          "/assets/images/products/writing_instruments.PNG"
+        ],
+        "id": 151,
+        "name": "Pens",
+        "price": 2,
+        "salePrice": 0.4,
+        "discount": 50,
+        "shortDetails": "Available on black red and blue ink",
+        "description": "ideal for all your writting",
+        "stock": 20,
+        "new": true,
+        "sale": true,
+        "rating": 2,
+        "category": "kids"
+    }
+]    
+        

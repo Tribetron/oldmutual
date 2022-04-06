@@ -1,0 +1,166 @@
+@media only screen and (max-width: 600px){
+    *{
+        padding:0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    #sticky{
+        display: none;
+    }
+
+    .log-in-parent{
+        background-image:url(http://10.70.12.38:3001/assets/images/kids/4.jpg);
+        background-size: cover;
+        background-position: center;
+        overflow-x: hidden; 
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 100vw;
+        /* font-family: Arial, Helvetica, sans-serif; */
+        
+    }
+
+    .sub-log{
+        display: flex;
+        height: 60vh;
+        align-items: center;
+        justify-content: center;
+        flex-direction:column;
+        top: 20vh;    
+        width: 100%;  
+       
+
+    }
+
+    .sub-log-child{
+        padding: 1rem;
+        margin: 0 auto ;
+        width: 80%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction:column ;
+        border: 1px solid rgba(0, 0, 0, 0.158);
+        border-radius: 2px;
+        background-color: rgba(255, 255, 255, 0.61);
+    }
+
+    .page-label h3{
+        font-size: 1.7rem;
+        margin-bottom: 2rem;
+        color: black;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+    label{
+        padding: 0;
+        margin:-2rem 0;
+        font-size: 1rem;
+        font-weight: 500;
+        
+    }
+
+    input{
+        width: 100%;
+        border: 1px solid rgba(0, 0, 0, 0.144);
+        padding: 5px;
+    }
+    .username-box{
+        margin: 0rem 0 2rem 0rem;
+        width: 100%;
+    }
+
+    .password-box{
+        margin: 0rem 0 0rem 0rem;
+        width: 100%;
+    }
+
+    .btn-solid{
+        margin-top: -1.2rem;
+    }
+}
+
+@media only screen and (min-width: 601px){
+    .log-in-parent{
+        background-image:url(http://10.70.12.38:3001/assets/images/kids/4.jpg);
+        background-size: cover;
+        background-repeat: none;
+        background-position: center;
+        overflow-x: hidden; 
+        height: 95vh;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 100vw;
+        padding-left: 15vw;
+        /* font-family: Arial, Helvetica, sans-serif; */
+        
+    }
+
+    .sub-log{
+        display: flex;
+        height: 60vh;
+        align-items: center;
+        justify-content: center;
+        flex-direction:column;
+        top: 20vh;    
+        max-width: 700px;  
+       
+
+    }
+
+    .sub-log-child{
+        padding: 1rem;
+        margin: 0 auto ;
+        width: 80%;
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+       
+        flex-direction:column ;
+        border: 1px solid rgba(0, 0, 0, 0.158);
+        border-radius: 2px;
+        background-color: rgba(255, 255, 255, 0);
+    }
+
+    .page-label h3{
+        font-size: 1.7rem;
+        margin-bottom: 2rem;
+        color: black;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+    label{
+        padding: 0;
+        margin:-2rem 0;
+        font-size: 1rem;
+        font-weight: 500;
+        
+    }
+
+    input{
+        width: 100%;
+        border: 1px solid rgba(0, 0, 0, 0.144);
+        padding: 5px;
+    }
+    .username-box{
+        margin: 0rem 0 2rem 0rem;
+        width: 100%;
+    }
+
+    .password-box{
+        margin: 0rem 0 0rem 0rem;
+        width: 100%;
+    }
+
+    .btn-solid{
+        margin-top: -1.2rem;
+    }
+
+}
